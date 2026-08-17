@@ -15,7 +15,8 @@ Every entry below is labeled with its actual status. This repository does not us
 
 - Wikström, Björn A. (2026). *The Age of No Resistance: Palliation, Friction Reduction, and the
   Structural Erosion of Social Integration.* Acta Sociologica (Nordic Sociological Association/SAGE).
-  Online first 29 June 2026. DOI: [10.1177/00016993261463089](https://doi.org/10.1177/00016993261463089).
+  Online first 29 June 2026. DOI: [10.1177/00016993261463089](https://doi.org/10.1177/00016993261463089) ·
+  [Read free (open access, Zenodo)](https://zenodo.org/records/21474085).
 
 ## Under review
 
