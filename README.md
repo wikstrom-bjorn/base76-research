@@ -2,7 +2,7 @@
 
 The evidence base: publications, frameworks, and research outputs, with links to OSF/Zenodo/DOI
 records rather than full text of everything. This repository exists so that claims made in
-[sociotechnical-futures](https://github.com/wikstrom-bjorn/Strategic_Foresight_-_Innovation_Researcher) and
+[sociotechnical-futures](https://github.com/wikstrom-bjorn/sociotechnical-futures) and
 [mechanism-based-foresight](https://github.com/wikstrom-bjorn/mechanism-based-foresight) can be traced
 back to their actual evidentiary status.
 
